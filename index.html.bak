@@ -31,9 +31,10 @@
           <img src="img/luisito.jpg" alt=""> </section>
       </div>
     </header>
-    <div class="contenedor2">
-       <img src="img/logo_grande.svg">
-   </div>
+    <div class="contenedor1"><br>
+      <div class="logo"> <img src="img/logo_grande.svg" alt="" style="width: 1328px; height: 189px;">
+      </div>
+    </div>
     <section class="questions contenedor">
       <section class="textos-questions">
         <h1>Our creativity is your success</h1>
@@ -71,6 +72,17 @@
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet
             sequi nihil unde.</p>
           <a href="#">Ingrese aquí</a> </section>
+      </div>
+    </section>
+    <section class="contenedor1 services"> <img src="img/terceraIlustracion.svg"
+
+        alt="">
+      <div class="box-skills">
+        <h4><i class="far fa-check-circle"></i> Web design</h4>
+        <h4><i class="far fa-check-circle"></i> Web development</h4>
+        <h4><i class="far fa-check-circle"></i> SEO</h4>
+        <h4><i class="far fa-check-circle"></i> Marketing</h4>
+        <h4><i class="far fa-check-circle"></i> Web support</h4>
       </div>
     </section>
     <footer>
