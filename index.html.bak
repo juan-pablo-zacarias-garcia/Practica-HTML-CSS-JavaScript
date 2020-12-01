@@ -24,65 +24,44 @@
       <div class="contenedor">
         <section class="contenido-header">
           <section class="textos-header">
-            <h1>The best solutions for your company</h1>
-            <p>We provide you with the best solutions in terms of technological
-              solutions to grow your company</p>
-            <a href="#">Learn more</a> </section>
-          <img src="img/luisito.jpg" alt=""> </section>
+            <h1>Las mejores soluciones de software empresariales</h1>
+            <p>Te brindamos las mejores soluciones para hacer crecer su empresa</p>
+            <a href="servicios.html">Ver más</a> </section>
+          <img src="img/crecer.svg"> </section>
       </div>
     </header>
-    <div class="contenedor1"><br>
-      <div class="logo"> <img src="img/logo_grande.svg" alt="" style="width: 1328px; height: 189px;">
-      </div>
-    </div>
+    <div class="contenedor2"> <img src="img/logo_grande.svg"> </div>
     <section class="questions contenedor">
       <section class="textos-questions">
-        <h1>Our creativity is your success</h1>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit,
-          dolorum.</p>
-        <a href="#">Learn more</a> </section>
-      <img src="img/segundaIlustracion.svg" alt="" data-aos="zoom-out-up" data-aos-duration="2000">
+        <h1>Nuestro objetivo</h1>
+        <p>Nuestro objetivo es ayudar a las empresas a implementar diferentes
+          tecnologias para la mejora de sus procesos</p>
+        <a href="servicios.html">Ver más</a> </section>
+      <img src="img/mejorar_procesos.jpg" alt="" data-aos="zoom-out-up" data-aos-duration="2000">
     </section>
     <section class="results">
       <div class="contenedor1 conten-results">
         <section class="numbers">
           <div class="number" data-aos="zoom-in-left">
-            <h4>+8863</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut,
-              id.</p>
+            <h4>Páginas web</h4>
+            <p>Aplicaione web para empresas internacionales</p>
           </div>
           <div class="number" data-aos="zoom-in-left">
-            <h4>+8863</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut,
-              id.</p>
+            <h4>Aplicaciones móviles</h4>
+            <p>Aplicaiones móviles innovadoras</p>
           </div>
           <div class="number" data-aos="zoom-in-left">
-            <h4>+8863</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut,
-              id.</p>
+            <h4>Capacitación</h4>
+            <p>Capacitacion a empleados</p>
           </div>
           <div class="number" data-aos="zoom-in-left">
-            <h4>+8863</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut,
-              id.</p>
+            <h4>Soporte</h4>
+            <p>Brindamos soporte técnico a varias empresas nacionales</p>
           </div>
         </section>
         <section class="results-text">
-          <h4>Lorem ipsum dolor sit amet.</h4>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet
-            sequi nihil unde.</p>
-          <a href="#">Ingrese aquí</a> </section>
-      </div>
-    </section>
-    <section class="contenedor1 services"> <img src="img/terceraIlustracion.svg"
-
-        alt="">
-      <div class="box-skills">
-        <h4><i class="far fa-check-circle"></i> Web design</h4>
-        <h4><i class="far fa-check-circle"></i> Web development</h4>
-        <h4><i class="far fa-check-circle"></i> SEO</h4>
-        <h4><i class="far fa-check-circle"></i> Marketing</h4>
-        <h4><i class="far fa-check-circle"></i> Web support</h4>
+          <h4>Experiencia</h4>
+          <p>Hemos realizado cientos de proyectos para todo tipo de empresas</p>
       </div>
     </section>
     <footer>
@@ -104,5 +83,6 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://kit.fontawesome.com/c15b744a04.js" crossorigin="anonymous"></script>
     <script src="js/main.js"></script>
+    
   </body>
 </html>

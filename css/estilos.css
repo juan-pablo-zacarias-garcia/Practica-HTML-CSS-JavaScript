@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #AAA9AA;
+    background-color: #fff;
 }
 
 h1,
@@ -19,7 +19,20 @@ h6 {
     color: #1d273b;
     font-weight: 300;
 }
-
+.colorf{
+    color: #fff;
+}
+.margen{
+    margin:40px 40px;
+    padding: 20px 20px;
+}
+.fondo0{
+background-color: #000;
+}
+.borde-redondo1{
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border: 1px solid black;
+}
 .contenedor {
     width: 90%;
     max-width: 1000px;
@@ -44,7 +57,7 @@ h6 {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 70px;
 }
 
 
@@ -80,6 +93,10 @@ nav {
     height: 80px;
 
 }
+
+.img-small{
+    height:100px;
+}
 .logo_grande{
     width:100%;
 }
@@ -99,6 +116,21 @@ nav {
     text-decoration: none;
     margin-left: 20px;
 }
+.botones{
+    margin: 28px 0 0 0;
+    width: 130px;
+    display: inline-block;
+    background: #1FDE82;
+    text-align: center;
+    color: #fff;
+    padding: 12px 0;
+    text-decoration: none;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 14px;
+    border-radius: 5px;
+    box-shadow: 0 8px 32px rgba(31, 222, 130, .46);
+}
 
 .hamburguer {
     width: 80px;
@@ -116,7 +148,7 @@ nav {
 }
 
 .contenido-header {
-    width: 100%;
+    width: 90%;
     height: 600px;
     display: flex;
     justify-content: space-between;
@@ -173,7 +205,8 @@ nav {
 /* About us */
 
 .about-us {
-    background: #f2f2f2;
+    background: #000;
+    color: #fff;
 }
 
 .contenedor-articulo {
@@ -276,7 +309,7 @@ nav {
 /* Results */
 
 .results {
-    background: #2570ff;
+    background: #000;
     padding-top: 30px;
 }
 
@@ -303,7 +336,7 @@ nav {
 
 .numbers .number h4 {
     color: #fff;
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 500;
     margin-bottom: 20px;
 }
@@ -372,7 +405,7 @@ nav {
 /* footer */
 
 footer {
-    background: #f2f2f2;
+    background: #000;
     padding: 60px 0;
     overflow: hidden;
     display: flex;
@@ -387,7 +420,7 @@ footer {
 }
 
 .partFooter h4 {
-    color: #1d273b;
+    color: #fff;
     font-size: 20px;
     font-weight: 400;
     margin-bottom: 30px;
@@ -396,7 +429,7 @@ footer {
 .partFooter a {
     display: block;
     text-decoration: none;
-    color: #5D6678;
+    color: #fff;
     font-weight: 300;
     transition: color .3s ease-in-out;
     margin-bottom: 10px;
@@ -404,7 +437,7 @@ footer {
 
 
 .partFooter a:hover {
-    color: #1FDE82;
+    color: #fff;
 }
 
 .partFooter img {
@@ -438,6 +471,7 @@ footer {
 @media screen and (max-width:800px) {
     .titulo {
         font-size: 45px;
+        color:#fff;
     }
 
     .contenido-header {
